@@ -39,6 +39,10 @@
 		"clear E8",
 		"clear F8",
 		"clear G8",
-		"clear G7"
+		"clear G7",
+		"clear A7",
+		"clear B8",
+		"flag B7",
+		"end"
 	]
 }
